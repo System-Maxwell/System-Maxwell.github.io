@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[my test]]></title>
     <url>%2F2019%2F10%2F02%2Fmy-test%2F</url>
-    <content type="text"><![CDATA[hexo 草稿文件夹里的的文档已经堆到 6 个了……而我依然不想填坑，填坑怎么能跟挖坑的快乐相比呢喝了两天奶茶似乎出现了咖啡因戒断反应，睡醒就饿吃饱就困，闪暖都懒得肝了，每天上线清个日常都很痛苦，只有抽卡能让我感觉到快乐，所以有没有 dalao 能做一个闪暖抽卡模拟器让我爽一下……但是太久不更新也不太好，于是今天放个小剧场吧。然后网易云有首歌被个 sb 做了错误百出的听写后面还有翻译错误甚至轴都没打对，我过两天自己翻一遍好了…… document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+    <content type="text"><![CDATA[hexo草稿文件夹里的的文档已经堆到6个了……而我依然不想填坑，填坑怎么能跟挖坑的快乐相比呢喝了两天奶茶似乎出现了咖啡因戒断反应，睡醒就饿吃饱就困，闪暖都懒得肝了，每天上线清个日常都很痛苦，只有抽卡能让我感觉到快乐，所以有没有dalao能做一个闪暖抽卡模拟器让我爽一下……但是太久不更新也不太好，于是今天放个小剧场吧。然后网易云有首歌被个sb做了错误百出的听写后面还有翻译错误甚至轴都没打对，我过两天自己翻一遍好了…… document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
       <tags>
         <tag>test</tag>
       </tags>
