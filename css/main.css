@@ -1192,7 +1192,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffffb6;
+  background: #ff559c;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2620,7 +2620,6 @@ ul.popular-posts .popular-posts-item .popular-posts-title {
   box-sizing: border-box;
   color: #555;
   width: 240px;
-  opacity: 0;
 }
 .sidebar-inner.affix {
   position: fixed;
