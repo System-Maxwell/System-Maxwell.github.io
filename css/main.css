@@ -1192,7 +1192,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #cbffab;
+  background: #4575f7;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2850,7 +2850,7 @@ ul.popular-posts .popular-posts-item .popular-posts-title {
   }
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("https://pic4.zhimg.com/80/v2-b5ff00b57c0483be884334f828234cdb_hd.jpg");
   height: 100%;
   width: 100%;
   background-repeat: repeat-x;
